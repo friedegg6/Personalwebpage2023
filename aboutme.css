@@ -1,0 +1,42 @@
+body{
+  background-color: #cf75ff;
+  text-align: center;
+  color:white
+}        
+h1 {
+    font-family: 'Android7Regular';
+    font-weight: normal;
+    font-style: normal;  
+  text-align: center;
+}
+span {
+  border:2px dotted red;
+}
+h2 {
+    font-family: 'Android7Regular';
+    font-weight: normal;
+    font-style: normal;
+  text-align: center;
+}
+ol {
+  border:5px solid #1eff00;
+  text-align: center;
+}
+ul {
+  border:5px solid #ff0000;
+  text-align:center;
+}
+a {
+  color:#0400ff;
+}
+h3 {
+    font-family: 'Android7Regular';
+    font-weight: normal;
+    font-style: normal;
+  text-align: center;
+}
+body {
+   font-family: 'FerrumExtracondensed';
+   font-weight: normal;
+   font-style: normal;
+}

@@ -1,0 +1,22 @@
+body {
+    font-family: 'Android7Regular';
+    font-weight: normal;
+    font-style: normal;
+  text-align: center;
+  color:white;
+  background-color:  #94ffa0;
+  text-align: center;
+}
+
+
+.one {
+  border: 10px double black;
+  padding:10px;
+  background-color: #02966f;
+}
+.two {
+  border: 10px double black;
+  padding:10px;
+  Background-color:#960262;
+}
+

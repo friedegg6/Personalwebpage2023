@@ -1,0 +1,35 @@
+h1 {
+   font-family: 'SFPixelateShadedRegular';
+   font-weight: normal;
+   font-style: normal;
+  text-align: center ;
+}
+.one {
+  width:20%;
+  background-color: #B08EA2;
+  height:1000px;
+}
+/*top,right,bottom,left*/
+.two {
+  background-color: #3E517A;
+  width:20%;
+  height:1000px;
+  margin: -1000px 150px 60px 20%;
+}
+.three {
+  background-color: #70CAD1;
+  width:20%;
+  height:1000px;
+  margin: -1060px 200px 60px 40%;
+}
+.four {
+  background-color: #629677;
+  width:20%;
+  height:1000px;
+  margin: -1060px 250px 60px 60%;
+}
+.five {
+  background-color: #495D63;
+  width:20%;
+  height:1000px;
+  margin: -1060px 100px 60px 80%; 
